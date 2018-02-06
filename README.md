@@ -1,5 +1,5 @@
 # Squash-Management
-This is a Squash Sport Management system with simple GUI. 
+This is a Squash Sport Management System with simple GUI. 
 
 There are different roles in this system, for example, coaches are allowed to create and modify game schedules or arrange practice for players, they may also request for equipments and check for rosters.
 
